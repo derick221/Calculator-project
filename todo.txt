@@ -1,0 +1,11 @@
+- [ ] Add support for more currencies
+- [ ] Improve error handling and input validation
+- [ ] Implement web-based interface
+- [ ] Integrate with external currency exchange API
+- [ ] Enhance testing coverage
+- [ ] Optimize performance for large datasets
+- [ ] Implement data persistence with a database
+
+- [ ] Train 10 times more Ukrainian soldiers in Europe and US.
+- [ ] Bring F-16 to Ukraine.
+

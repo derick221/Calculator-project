@@ -1,0 +1,10 @@
+- [x] Learn and use OOP principles to build a tracker.
+- [x] Implement Record class
+- [x] Create Calculator class
+- [x] Develop CashCalculator class
+- [x] Build CaloriesCalculator class
+- [x] Follow PEP 8 guidelines
+- [x] Write tests
+- [x] Create CLI interface
+- [x] Update README
+- [x] Publish on GitHub
